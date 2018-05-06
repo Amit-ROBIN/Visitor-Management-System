@@ -7,7 +7,7 @@ To run the Dashboard Start with login.html using credentials:
 *Password:* password  
 OR  
 directly run index.html.  
-The apk has been attached, and the link to code is [here](https://drive.google.com/file/d/1rXtqlZcwp7SBIWN98-NId66g1f0zHLg5/view).
+The [apk] (https://github.com/vardhanaav/Visitor-Management-System/blob/master/VMS%20IIITA.zip) has been attached (VMS IIITA.zip), and the link to code is [here](https://drive.google.com/file/d/1rXtqlZcwp7SBIWN98-NId66g1f0zHLg5/view).
 
 
 ## List of files
