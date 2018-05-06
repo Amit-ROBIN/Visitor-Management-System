@@ -2,6 +2,17 @@
 Responsive Implementation of our Dashboard
 ==========================================
 
+Usage
+-----
+To run the Dashboard Start with login.html using credentials:
+Username:amit@gmail.com
+Password:password
+
+
+Responsive Implementation of our Android App
+==============================================
+
+
 List of files
 -------------
 1. login.html
@@ -19,24 +30,17 @@ List of files
 13. firebaselink.js
 14. Other UI favicons and jquery and js files in assets (120 files)
 
-
-
-Usage
------
-To run the Dashboard Start with login.html using credentials:
-Username:amit@gmail.com
-Password:password
-
-
-Responsive Implementation of our Android App
-==============================================
-
 List of files
 ---------------
-Manifests:- AndroidManifest.xml
+Manifests:- 
+-----------
+AndroidManifest.xml
 
 Java Files:-
-package:- models(About Model, Gallery Model, Permission Model, PlaceInfo, visitor_details)  
+----------
+package:- 
+--------
+'*models*(About Model, Gallery Model, Permission Model, PlaceInfo, visitor_details)'  
 1. AboutFragment.java  
 2. AboutHolder.java  
 3. AlarmReceive.java  
@@ -63,7 +67,8 @@ package:- models(About Model, Gallery Model, Permission Model, PlaceInfo, visito
 24.UpdateInfo.java  
 25.UploadInfo.java  
 
-Layout Files:-  
+Layout Files:-
+------------
 1.about_card_items.xml  
 2.activity_help.xml  
 3.activity_home.xml  
@@ -92,9 +97,7 @@ Layout Files:-
     
 Usage
 -----
-For installation of the App APK file is attached.
- 
-The code attempts to implement Dashboard for visitor management system:
+For installation of the Application APK file is attached.
 
 > Amit Kumar
 > Ashwin Aishvarya Vardhan 
