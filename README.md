@@ -89,8 +89,8 @@ AndroidManifest.xml
 25. review_card.xml
     
 
-                                                    > Amit Kumar  
-                                                    > Ashwin Aishvarya Vardhan   
-                                                    > Ujala Singh  
-                                                    > Abhishek Negi  
-                                                    > Manish Thakur
+> Amit Kumar
+> Ujala Singh
+> Manish Thakur
+> Abhishek Negi  
+> Ashwin Aishvarya Vardhan
