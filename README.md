@@ -2,7 +2,7 @@
 6th semester project under the mentorship of **Dr. Sonali Agarwal** (Indian Institue of Information Technology, Allahabad).
 
 ## Usage
-To run the Dashboard Start with login.html using credentials:  
+To run the dashboard start with login.html using credentials:  
 *Username:* amit@gmail.com  
 *Password:* password  
 OR  
