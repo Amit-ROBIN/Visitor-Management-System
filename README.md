@@ -2,16 +2,15 @@
 6th semester project under the mentorship of **Dr. Sonali Agarwal** (Indian Institue of Information Technology, Allahabad).
 
 ## Usage
-To run the Dashboard Start with login.html using credentials:
-Username:amit@gmail.com  
-Password:password  
+To run the Dashboard Start with login.html using credentials:  
+*Username:* amit@gmail.com  
+*Password:* password  
 OR  
 directly run index.html.  
 The apk has been attached, and the link to code is [here](https://drive.google.com/file/d/1rXtqlZcwp7SBIWN98-NId66g1f0zHLg5/view).
 
 
-List of files
--------------
+## List of files
 1. login.html
 2. index.html
 3. README(this file)
@@ -27,8 +26,6 @@ List of files
 13. firebaselink.js
 14. Other UI favicons and jquery and js files in assets (120 files)
 
-List of files
----------------
 ## Manifests:- 
 AndroidManifest.xml
 
@@ -88,7 +85,7 @@ AndroidManifest.xml
 24. permission_card_items.xml
 25. review_card.xml
     
-
+Developed by:
 > Amit Kumar  
 > Ujala Singh  
 > Manish Thakur  
