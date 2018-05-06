@@ -7,7 +7,7 @@ To run the dashboard start with login.html using credentials:
 *Password:* password  
 OR  
 directly run index.html.  
-The [apk](https://github.com/vardhanaav/Visitor-Management-System/blob/master/VMS%20IIITA.zip) has been attached (VMS IIITA.zip), and the link to android code is [here](https://drive.google.com/file/d/1rXtqlZcwp7SBIWN98-NId66g1f0zHLg5/view). The web admin code can be found [here](https://drive.google.com/file/d/1GtT0GezXR0tI1BBbqBEbIqyqV7pTSVYG/view).
+The [apk](https://github.com/vardhanaav/Visitor-Management-System/blob/master/VMS%20IIITA.zip) has been attached (VMS IIITA.zip), and the link to android code is [here](https://drive.google.com/file/d/1rXtqlZcwp7SBIWN98-NId66g1f0zHLg5/view). The web admin dashboard code can be found [here](https://drive.google.com/file/d/1GtT0GezXR0tI1BBbqBEbIqyqV7pTSVYG/view).
 
 
 ## List of files
