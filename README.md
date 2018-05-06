@@ -94,4 +94,5 @@ AndroidManifest.xml
 > Manish Thakur  
 > Abhishek Negi    
 > Ashwin Aishvarya Vardhan  
+
 *Indian Institue of Information Technology, Allahabad
