@@ -1,17 +1,13 @@
 # Visitor-Management-System
+6th semester project under the mentorship of **Dr. Sonali Agarwal**.
 
-Responsive Implementation of our Dashboard
-==========================================
-
-Usage
------
+## Usage
 To run the Dashboard Start with login.html using credentials:
-Username:amit@gmail.com
-Password:password
-
-
-Responsive Implementation of our Android App
-==============================================
+Username:amit@gmail.com  
+Password:password  
+OR  
+directly run index.html.  
+The apk has been attched, and the link[www.iiita.ac.in] to code is here.
 
 
 List of files
