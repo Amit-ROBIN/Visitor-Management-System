@@ -33,15 +33,12 @@ List of files
 
 List of files
 ---------------
-Manifests:- 
------------
+## Manifests:- 
 AndroidManifest.xml
 
-Java Files:-
-----------
-package:- 
---------
-'*models*(About Model, Gallery Model, Permission Model, PlaceInfo, visitor_details)'  
+## Java Files:
+### package: 
+`*models*(About Model, Gallery Model, Permission Model, PlaceInfo, visitor_details)`  
 1. AboutFragment.java  
 2. AboutHolder.java  
 3. AlarmReceive.java  
@@ -68,8 +65,7 @@ package:-
 24. UpdateInfo.java  
 25. UploadInfo.java  
 
-Layout Files:-
-------------
+## Layout Files:
 1. about_card_items.xml  
 2. activity_help.xml  
 3. activity_home.xml  
@@ -96,12 +92,9 @@ Layout Files:-
 24. permission_card_items.xml
 25. review_card.xml
     
-Setting Up
-----------
-For installation of the Application APK file is attached. For web dashboard open index.html
 
-> Amit Kumar  
-> Ashwin Aishvarya Vardhan   
-> Ujala Singh  
-> Abhishek Negi  
-> Manish Thakur
+                                                    > Amit Kumar  
+                                                    > Ashwin Aishvarya Vardhan   
+                                                    > Ujala Singh  
+                                                    > Abhishek Negi  
+                                                    > Manish Thakur
