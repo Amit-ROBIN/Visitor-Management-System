@@ -89,9 +89,9 @@ AndroidManifest.xml
 25. review_card.xml
     
 
-> Amit Kumar
-> Ujala Singh
-> Manish Thakur
-> Abhishek Negi  
-> Ashwin Aishvarya Vardhan
+> Amit Kumar  
+> Ujala Singh  
+> Manish Thakur  
+> Abhishek Negi    
+> Ashwin Aishvarya Vardhan  
 *Indian Institue of Information Technology, Allahabad
