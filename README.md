@@ -7,7 +7,7 @@ Username:amit@gmail.com
 Password:password  
 OR  
 directly run index.html.  
-The apk has been attched, and the link[www.iiita.ac.in] to code is here.
+The apk has been attched, and the link [www.iiita.ac.in] to code is here.
 
 
 List of files
