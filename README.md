@@ -1,4 +1,5 @@
 # Visitor-Management-System
+
 Responsive Implementation of our Dashboard
 ==========================================
 
@@ -95,9 +96,9 @@ Layout Files:-
 24. permission_card_items.xml
 25. review_card.xml
     
-Usage
------
-For installation of the Application APK file is attached.
+Setting Up
+----------
+For installation of the Application APK file is attached. For web dashboard open index.html
 
 > Amit Kumar  
 > Ashwin Aishvarya Vardhan   
