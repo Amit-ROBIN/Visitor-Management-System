@@ -99,8 +99,8 @@ Usage
 -----
 For installation of the Application APK file is attached.
 
-> Amit Kumar
-> Ashwin Aishvarya Vardhan 
-> Ujala Singh
-> Abhishek Negi
+> Amit Kumar  
+> Ashwin Aishvarya Vardhan   
+> Ujala Singh  
+> Abhishek Negi  
 > Manish Thakur
