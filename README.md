@@ -1,5 +1,5 @@
 # Visitor-Management-System
-6th semester project under the mentorship of **Dr. Sonali Agarwal**.
+6th semester project under the mentorship of **Dr. Sonali Agarwal** (Indian Institue of Information Technology, Allahabad).
 
 ## Usage
 To run the Dashboard Start with login.html using credentials:
@@ -95,4 +95,3 @@ AndroidManifest.xml
 > Abhishek Negi    
 > Ashwin Aishvarya Vardhan  
 
-*Indian Institue of Information Technology, Allahabad
