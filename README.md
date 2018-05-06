@@ -2,14 +2,6 @@
 Responsive Implementation of our Dashboard
 ==========================================
 
-The code attempts to implement Dashboard for visitor management system:
-
-> Amit Kumar
-> Ashwin Aishwarya Vardhan 
-> Ujala Singh
-> Abhishek Negi
-> Manish Thakur
-
 List of files
 -------------
 1. login.html
@@ -102,3 +94,10 @@ Usage
 -----
 For installation of the App APK file is attached.
  
+The code attempts to implement Dashboard for visitor management system:
+
+> Amit Kumar
+> Ashwin Aishvarya Vardhan 
+> Ujala Singh
+> Abhishek Negi
+> Manish Thakur
